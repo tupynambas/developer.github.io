@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-Template Name: Laura
-Template URL: https://bootstrapmade.com/laura-free-creative-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Template Name: Tupynambá
+Template URL: https://tupynamba.com
+Author: Ilyes Majid
+License: https://tupynamba.com
